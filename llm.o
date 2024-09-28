@@ -1,0 +1,13 @@
+You are attempting to use Flash Attention 2.0 with a model not initialized on GPU. Make sure to move the model to GPU after initializing it on CPU with `model.to('cuda')`.
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00, 14.14it/s]You are attempting to use Flash Attention 2.0 with a model not initialized on GPU. Make sure to move the model to GPU after initializing it on CPU with `model.to('cuda')`.
+
+Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 15.16it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 14.98it/s]
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00, 13.78it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 14.77it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 14.60it/s]
+What is the capital of France? The answer is:  Paris, the City of Light! But what if I told you that Paris is not the capital of
