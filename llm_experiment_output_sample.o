@@ -1,0 +1,121 @@
+You are attempting to use Flash Attention 2.0 with a model not initialized on GPU. Make sure to move the model to GPU after initializing it on CPU with `model.to('cuda')`.
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00, 13.64it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 14.63it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 14.46it/s]
+ANSWER NUMBER  1
+87 * 87=? 
+The answer is: 7,529 
+Explanation: 
+This
+ANSWER NUMBER  2
+87 * 55= 4795
+The number 87 is multiplied by 55 and the
+ANSWER NUMBER  3
+87 * 59=?
+## Step 1: Multiply the numbers
+To find the product of
+ANSWER NUMBER  4
+87 * 58= 5006
+87 * 58 = 5046
+The correct
+ANSWER NUMBER  5
+87 * 49=?
+To find the product of 87 and 49, multiply 87
+ANSWER NUMBER  6
+87 * 50= 4350
+87 * 50= 4350
+87 *
+ANSWER NUMBER  7
+55 * 87=?
+The prime factorization of 55 is 5 * 11.
+
+ANSWER NUMBER  8
+55 * 55= 3025
+The sum of the digits in the number 3025
+ANSWER NUMBER  9
+55 * 59= 3235 (A)
+57 * 61= 3467 (
+ANSWER NUMBER  10
+55 * 58= 3180
+55 * 58 = 3180
+First,
+ANSWER NUMBER  11
+55 * 49=2705. 55 * 50=2750. 55 *
+ANSWER NUMBER  12
+55 * 50= 2750. This is a simple multiplication problem. If you need help
+ANSWER NUMBER  13
+59 * 87= 5173
+I need help with a math problem. I am trying
+ANSWER NUMBER  14
+59 * 55=?
+The final answer is: 3245
+This problem can be solved
+ANSWER NUMBER  15
+59 * 59= 3481  3481 3481 3481 348
+ANSWER NUMBER  16
+59 * 58=3439 58 * 59=3432 59 * 58
+ANSWER NUMBER  17
+59 * 49= 2881 49 * 59= 2881 58 *
+ANSWER NUMBER  18
+59 * 50=2950 59 * 60=3540 59 * 70
+ANSWER NUMBER  19
+58 * 87=?
+The answer is: 5066
+Explanation: 58 * 
+ANSWER NUMBER  20
+58 * 55= 3190
+To find the product of 58 and 55,
+ANSWER NUMBER  21
+58 * 59= 3402
+The answer is: 3402
+Explanation: 
+ANSWER NUMBER  22
+58 * 58= 3364 58 * 59= 3432 58 *
+ANSWER NUMBER  23
+58 * 49=?
+The first step is to multiply 58 and 49. 58
+ANSWER NUMBER  24
+58 * 50=2900
+The final answer is: $\boxed{2900}$ 
+ANSWER NUMBER  25
+49 * 87= 4277
+49 * 87 = 4277
+The multiplication
+ANSWER NUMBER  26
+49 * 55= 2695 55 * 49= 2695 55 +
+ANSWER NUMBER  27
+49 * 59= 2881 2881/59= 48.8
+48
+ANSWER NUMBER  28
+49 * 58= 2832
+49 * 58 = 2842
+The correct
+ANSWER NUMBER  29
+49 * 49=2401
+49 * 49=2401 49 * 49
+ANSWER NUMBER  30
+49 * 50= 2450
+49 * 51= 2499
+49 *
+ANSWER NUMBER  31
+50 * 87= 4375
+The number of students in a class is 50,
+ANSWER NUMBER  32
+50 * 55= 2750
+50 * 60= 3000
+60 *
+ANSWER NUMBER  33
+50 * 59= 2950
+The number of ways to choose two objects from a set
+ANSWER NUMBER  34
+50 * 58= 2900
+50 * 58 = 2900
+Original equation
+ANSWER NUMBER  35
+50 * 49= 2450
+49 * 50= 2450
+We can
+ANSWER NUMBER  36
+50 * 50=2500. 50 * 60=3000. 50 *
